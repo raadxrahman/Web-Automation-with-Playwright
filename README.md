@@ -65,6 +65,13 @@ To execute the automation suite, follow these steps:
 #### 2. Behaviours 
 ![Screenshot 2025-05-29 232138](https://github.com/user-attachments/assets/2faed43f-8144-4d52-b62d-5a9f37381c3f)
 
+## Demonstration
+#### Includes running the project from Terminal, Automation part sped up to 1.5x.
+
+
+Click on the video.
+[![Watch the video](img.youtube.com/vi/05dDlURsZpw/maxresdefault.jpg)](https://youtu.be/05dDlURsZpw)
+
 ##  Author
 
 Mahbubur Rahman
