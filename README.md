@@ -70,7 +70,7 @@ To execute the automation suite, follow these steps:
 
 
 Click on the video.
-[![Watch the video](img.youtube.com/vi/05dDlURsZpw/maxresdefault.jpg)](https://youtu.be/05dDlURsZpw)
+[![Watch the video](https://github.com/raadxrahman/Web-Automation-with-Playwright/blob/main/resources/image.png)](https://youtu.be/05dDlURsZpw)
 
 ##  Author
 
