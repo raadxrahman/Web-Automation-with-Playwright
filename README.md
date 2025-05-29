@@ -1,5 +1,5 @@
 # Web Automation with PlaywrightJS
-This repository contains Playwright Automation Tests for the DailyFinance application (`https://dailyfinance.roadtocareer.net/`). The goal is to automate key user flows, including registration, login, item management, profile updates, and password reset.
+This repository contains Playwright Automation Tests for the [Daily Finance](https://dailyfinance.roadtocareer.net/) website. The goal is to automate key user flows, including registration, login, item management, profile updates, and password reset.
 
 ## Prerequisites
 
@@ -10,12 +10,12 @@ Before running the tests, ensure you have the following installed:
 * **Web Browsers**: Chromium (automatically installed by Playwright)
 * **Java JRE/JDK**: Required for Allure Report generation.
 
-## Installation
+## Setup Instructions
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name # Replace with your actual repo name
+     git clone <repository_url>
+     cd <repository_name>
     ```
 
 2.  **Install project dependencies:**
@@ -28,9 +28,9 @@ Before running the tests, ensure you have the following installed:
     Create a `.env` file in the root of your project and add necessary variables, such as:
     ```
     # .env
-    email_prefix=testuser
+    email_prefix = your email prefix
     # Add your Gmail API access token here for email testing (if applicable)
-    access_token=YOUR_GMAIL_API_ACCESS_TOKEN
+    access_token = YOUR_GMAIL_API_ACCESS_TOKEN
     ```
     *Make sure to add `.env` to your `.gitignore` file to prevent it from being committed.*
 
