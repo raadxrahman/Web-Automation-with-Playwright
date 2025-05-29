@@ -54,8 +54,6 @@ To execute the automation suite, follow these steps:
 3.  **Run a specific test file:**
     ```bash
     npx playwright test tests/testrunner.spec.js
-    # or
-    npx playwright test tests/dailyfinance.negative.spec.js # If you have a separate negative test file
     ```
 
 ## Allure Reports
